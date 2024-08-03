@@ -1,4 +1,4 @@
-package go_macros
+package gomacros
 
 import "runtime"
 
